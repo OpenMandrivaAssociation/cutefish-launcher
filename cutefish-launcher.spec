@@ -1,7 +1,7 @@
 %define oname launcher
 
 Name:           cutefish-launcher
-Version:        0.7
+Version:        0.8
 Release:        1
 Summary:        Menu Launcher
 License:        GPL-3.0-or-later
